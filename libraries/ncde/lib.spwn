@@ -1,0 +1,5 @@
+qr = import "qr.spwn"
+
+return {
+    qr
+}
